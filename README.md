@@ -26,7 +26,7 @@ This project supports both single 8x8 matrix modules and pre-assembled 4-in-1 ca
 | **MAX7219 (4-in-1 Module)** | Pre-cascaded 32x8 matrix. Recommended for scrolling text. | [🔗 Link](https://www.amazon.com/dp/B07FFV537V?tag=huhamster-20) | [🔗 Link](https://fas.st/D-2udU) |
 | **MAX7219 (Single Segment)** | Individual 8x8 matrix. Suitable for custom physical layouts. | [🔗 Link](https://www.amazon.com/dp/B07W6KZR5D?tag=huhamster-20) | [🔗 Link](https://fas.st/bmYZCf) |
 | **Arduino Nano V3.0** | The primary microcontroller unit (MCU). | [🔗 Link](https://cutt.ly/ttcXB5Rs) | [🔗 Link](https://fas.st/rnAta) |
-| **Prototyping Kit** | Solderless breadboard and DuPont jumper wires. | [🔗 Link](https://cutt.ly/htcFFjra) | [🔗 Link](https://fas.st/s8JSX) |
+| **Prototyping Kit** | Solderless breadboard. | [🔗 Link](https://cutt.ly/htcFFjra) | [🔗 Link](https://fas.st/s8JSX) |
 
 > *Disclaimer: The links provided above are affiliate links. Purchasing through them helps support the maintenance of this repository.*
 
@@ -55,11 +55,3 @@ To compile the firmware, you must install the following core graphics and hardwa
 1. [**Adafruit GFX Library**](https://github.com/adafruit/Adafruit-GFX-Library) — Core graphics engine for point, line, and shape rendering.
 2. [**Max72xxPanel**](https://github.com/markruys/arduino-Max72xxPanel) — Hardware abstraction layer for cascaded MAX7219 ICs.
 3. **SPI** — Built-in Arduino library (No manual installation required).
-
----
-
-## 🛠 Installation & Usage
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
