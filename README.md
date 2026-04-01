@@ -23,8 +23,8 @@ This project supports both single 8x8 matrix modules and pre-assembled 4-in-1 ca
 
 | Component | Description | Amazon | AliExpress |
 | :--- | :--- | :---: | :---: |
-| **MAX7219 (4-in-1 Module)** | Pre-cascaded 32x8 matrix. Recommended for scrolling text. | [🔗 Link](https://www.amazon.com/dp/B07FFV537V?tag=huhamster-20) | [🔗 Link](https://fas.st/D-2udU) |
-| **MAX7219 (Single Segment)** | Individual 8x8 matrix. Suitable for custom physical layouts. | [🔗 Link](https://www.amazon.com/dp/B07W6KZR5D?tag=huhamster-20) | [🔗 Link](https://fas.st/bmYZCf) |
+| **MAX7219 (4-in-1 Module)** | Pre-cascaded 32x8 matrix. Recommended for scrolling text. | [🔗 Link](https://cutt.ly/XtAJTpoz) | [🔗 Link](https://fas.st/D-2udU) |
+| **MAX7219 (Single Segment)** | Individual 8x8 matrix. Suitable for custom physical layouts. | [🔗 Link](https://cutt.ly/FtAJTEJg) | [🔗 Link](https://fas.st/bmYZCf) |
 | **Arduino Nano V3.0** | The primary microcontroller unit (MCU). | [🔗 Link](https://cutt.ly/ttcXB5Rs) | [🔗 Link](https://fas.st/rnAta) |
 | **Prototyping Kit** | Solderless breadboard. | [🔗 Link](https://cutt.ly/htcFFjra) | [🔗 Link](https://fas.st/s8JSX) |
 
